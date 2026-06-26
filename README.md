@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00E676&height=220&section=header&text=Larissa%20Maria%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Telecommunications%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5300c8,100:00E676&height=220&section=header&text=Larissa%20Maria%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Telecommunications%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=55" />
 </p>
 
 <p align="center">
