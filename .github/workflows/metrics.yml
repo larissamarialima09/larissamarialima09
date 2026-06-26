@@ -38,10 +38,12 @@ jobs:
 
           plugin_followup: yes
           plugin_followup_sections: repositories
-plugin_repositories: yes
-  - TimeFlow
-  - Sistema-Catraca
-  - Projeto-E-commerce
-  - Projeto-E-commerce-Vue-Js
-  - E-commerce-Primevue-Tailwind-CSS
-  - Banco_de_Dados_catracas_IFCE
+          plugin_repositories: yes
+
+          plugin_repositories_featured:
+            - Projeto-E-commerce
+            - Projeto-E-commerce-Vue-Js
+            - E-commerce-Primevue-Tailwind-CSS
+            - Banco_de_Dados_catracas_IFCE
+            - apiWalki
+            - TimeFlow
