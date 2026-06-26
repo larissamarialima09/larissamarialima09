@@ -67,13 +67,6 @@
 
 > *Project links will be added as they become publicly available.*
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=larissamarialima09&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
 
 ---
 
