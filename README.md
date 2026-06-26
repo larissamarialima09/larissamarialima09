@@ -16,7 +16,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,vue,nodejs,flutter,dart,sqlite,git,github,arduino,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,vue,nodejs,flutter,dart,sqlite,git,github,arduino,vscode" />
 </p>
 
 ---
