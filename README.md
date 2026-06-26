@@ -3,7 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00E676&height=220&section=header&text=Larissa%20Maria%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Telecommunications%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=55" />
 </p>
 
-# Hi there! 👋 I'm Larissa Maria Lima
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B;I'm+Larissa+Maria+Lima;Telecommunications+Engineering+Student;Web+Developer;Embedded+Systems+%26+IoT+Enthusiast" />
+</p>
 
 🎓 Telecommunications Engineering Student at IFCE
 
