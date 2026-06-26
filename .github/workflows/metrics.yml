@@ -38,8 +38,7 @@ jobs:
 
           plugin_followup: yes
           plugin_followup_sections: repositories
-
-          plugin_repositories: yes
+plugin_repositories: yes
   - TimeFlow
   - Sistema-Catraca
   - Projeto-E-commerce
