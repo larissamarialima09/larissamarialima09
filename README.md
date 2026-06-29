@@ -60,8 +60,8 @@
 
 | Project | Technologies |
 |---------|--------------|
-| 🚧 Smart Turnstile System | ESP32 • RFID • Node.js • SQLite |
-| ⏱️ TimeFlow | Flutter • Node.js |
+| 🚧 Banco de Dados IFCE | ESP32 • RFID • Node.js • SQLite |
+| ⏱️ TimeFlow | Flutter |
 | 🛒 Vue E-commerce | Vue.js • PrimeVue • Tailwind CSS |
 | 📱 Flutter Application | Flutter • Dart |
 
