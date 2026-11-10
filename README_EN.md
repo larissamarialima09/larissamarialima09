@@ -28,16 +28,11 @@
 
 > Exploring technologies and building solutions for a more connected future — **on Earth and beyond.**
 
-```txt
-🛰️  larissa@ifce:~$ whoami
-    Telecommunications Engineering student at IFCE
-
-🔌  larissa@ifce:~$ cat interests.txt
-    Embedded systems • IoT • Web & mobile development • AI for audio
-
-🌱  larissa@ifce:~$ status
-    Always learning something new_
-```
+- 🎓 **Telecommunications Engineering** student at IFCE
+- 🔌 Building **embedded systems** and **IoT** solutions
+- 🌐 Creating **web** and **mobile** applications
+- 🤖 Exploring **AI for audio**
+- 🌱 Always learning something new
 
 <br/>
 
