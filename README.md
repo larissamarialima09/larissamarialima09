@@ -23,15 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=larissamarialima09&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamarialima09&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📊 GitHub Metrics
 
 <p align="center">
@@ -44,14 +35,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=larissamarialima09&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=larissamarialima09&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
