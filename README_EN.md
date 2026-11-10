@@ -4,7 +4,7 @@
 
 <!-- Banner espacial -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:05030c,50:24104d,100:7c3aed&height=260&section=header&text=Hello%2C%20community.%20%E2%9C%A6&fontSize=52&fontColor=f3efff&fontAlignY=38&animation=twinkling&desc=I%27m%20Larissa%20%E2%80%94%20Telecommunications%20Engineering&descSize=18&descAlignY=58&descColor=c084fc" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:05030c,50:24104d,100:7c3aed&height=260&section=header&text=Hello%2C%20community.%20%E2%9C%A6&fontSize=52&fontColor=f3efff&fontAlignY=38&animation=twinkling&desc=I%27m%20Larissa&descSize=18&descAlignY=58&descColor=c084fc" />
 </p>
 
 <p align="center">
