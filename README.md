@@ -28,16 +28,11 @@
 
 > Explorando tecnologias e construindo soluções para um futuro mais conectado — **dentro e fora da Terra.**
 
-```txt
-🛰️  larissa@ifce:~$ whoami
-    Estudante de Engenharia de Telecomunicações no IFCE
-
-🔌  larissa@ifce:~$ cat interesses.txt
-    Sistemas embarcados • IoT • Desenvolvimento web e mobile • IA aplicada a áudio
-
-🌱  larissa@ifce:~$ status
-    Sempre aprendendo algo novo_
-```
+- 🎓 Estudante de **Engenharia de Telecomunicações** no IFCE
+- 🔌 Desenvolvendo **sistemas embarcados** e soluções de **IoT**
+- 🌐 Criando aplicações **web** e **mobile**
+- 🤖 Explorando **IA aplicada a áudio**
+- 🌱 Sempre aprendendo algo novo
 
 <br/>
 
